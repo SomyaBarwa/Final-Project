@@ -1,3 +1,5 @@
-# Final-Project 
+# Mini-Project 
 
-Project: Web App possibly since making android apps using java would be a bit hard and extensions js??? Nahhh I dont even know the difficulty of that.
+NAP which stands for Notes and Passwords is an application that manages your notes and passwords
+
+_Passwords are stored on the local device unlike notes._ 
